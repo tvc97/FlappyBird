@@ -110,7 +110,7 @@ public class BirdController : MonoBehaviour {
         {
             dead = true;
             GetComponent<SpriteRenderer>().sprite = deadSprite;
-            GetComponent<Animator>().Stop();
+            GetComponent<Animator>().enabled = false;
             GetComponent<AudioSource>().PlayOneShot(hit);
             GetComponent<AudioSource>().PlayOneShot(die);
 

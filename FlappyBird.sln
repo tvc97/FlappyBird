@@ -1,7 +1,7 @@
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{6C60F2CE-3908-9C5C-D407-F2D468225AFD}") = "FlappyBird", "Assembly-CSharp.csproj", "{E3EF6E53-88BE-20EB-65C7-C65330B49779}"
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{E3EF6E53-88BE-20EB-65C7-C65330B49779}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
